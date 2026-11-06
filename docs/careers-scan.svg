@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<text x="70" y="22" font-size="17" font-weight="700" fill="#8b949e">Careers scan: files finished (Thu evening to Fri morning)</text>
+<line x1="70" x2="780" y1="266.0" y2="266.0" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="270.0" font-size="12" text-anchor="end" fill="#8b949e">0</text>
+<line x1="70" x2="780" y1="210.5" y2="210.5" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="214.5" font-size="12" text-anchor="end" fill="#8b949e">25k</text>
+<line x1="70" x2="780" y1="155.0" y2="155.0" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="159.0" font-size="12" text-anchor="end" fill="#8b949e">50k</text>
+<line x1="70" x2="780" y1="99.5" y2="99.5" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="103.5" font-size="12" text-anchor="end" fill="#8b949e">75k</text>
+<line x1="70" x2="780" y1="44.0" y2="44.0" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="48.0" font-size="12" text-anchor="end" fill="#8b949e">100k</text>
+<text x="171.4" y="290" font-size="12" text-anchor="middle" fill="#8b949e">Thu 18:00</text>
+<text x="333.7" y="290" font-size="12" text-anchor="middle" fill="#8b949e">Thu 22:00</text>
+<text x="496.0" y="290" font-size="12" text-anchor="middle" fill="#8b949e">Fri 2:00</text>
+<text x="658.3" y="290" font-size="12" text-anchor="middle" fill="#8b949e">Fri 6:00</text>
+<path d="M168.0 229.8 L195.8 218.5 L212.7 211.6 L338.4 161.9 L382.4 143.8 L454.1 114.5 L475.7 105.8 L497.4 96.9 L519.7 87.2 L543.3 77.3 L566.3 68.4 L590.7 60.6 L614.3 54.5 L639.4 50.4 L663.0 47.9 L688.0 46.5 L712.4 45.5 L737.4 44.8 L739.4 44.8 L739.4 266.0 L168.0 266.0 Z" fill="#2a9db0" fill-opacity="0.18"/>
+<path d="M168.0 229.8 L195.8 218.5 L212.7 211.6 L338.4 161.9 L382.4 143.8 L454.1 114.5 L475.7 105.8 L497.4 96.9 L519.7 87.2 L543.3 77.3 L566.3 68.4 L590.7 60.6 L614.3 54.5 L639.4 50.4 L663.0 47.9 L688.0 46.5 L712.4 45.5 L737.4 44.8 L739.4 44.8" fill="none" stroke="#2a9db0" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="739.4" cy="44.8" r="4.5" fill="#2a9db0"/>
+<line x1="739.4" x2="739.4" y1="44" y2="266" stroke="#e08a2c" stroke-dasharray="4 4" stroke-width="1.5"/>
+<text x="733.4" y="58" font-size="12" text-anchor="end" fill="#e08a2c">8:00 shutdown timer</text>
+</svg>

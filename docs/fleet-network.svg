@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<text x="70" y="22" font-size="17" font-weight="700" fill="#8b949e">Data pulled in by the whole fleet, GB per 5 minutes (Thu)</text>
+<line x1="70" x2="780" y1="266.0" y2="266.0" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="270.0" font-size="12" text-anchor="end" fill="#8b949e">0 GB</text>
+<line x1="70" x2="780" y1="210.5" y2="210.5" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="214.5" font-size="12" text-anchor="end" fill="#8b949e">50 GB</text>
+<line x1="70" x2="780" y1="155.0" y2="155.0" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="159.0" font-size="12" text-anchor="end" fill="#8b949e">100 GB</text>
+<line x1="70" x2="780" y1="99.5" y2="99.5" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="103.5" font-size="12" text-anchor="end" fill="#8b949e">150 GB</text>
+<line x1="70" x2="780" y1="44.0" y2="44.0" stroke="#8b949e" stroke-opacity="0.3"/>
+<text x="62" y="48.0" font-size="12" text-anchor="end" fill="#8b949e">200 GB</text>
+<text x="119.5" y="290" font-size="12" text-anchor="middle" fill="#8b949e">10:45</text>
+<text x="268.1" y="290" font-size="12" text-anchor="middle" fill="#8b949e">11:30</text>
+<text x="416.7" y="290" font-size="12" text-anchor="middle" fill="#8b949e">12:15</text>
+<text x="565.3" y="290" font-size="12" text-anchor="middle" fill="#8b949e">13:00</text>
+<text x="714.0" y="290" font-size="12" text-anchor="middle" fill="#8b949e">13:45</text>
+<path d="M96.4 175.9 L112.9 66.4 L129.4 63.4 L146.0 59.9 L162.5 75.0 L179.0 81.5 L195.5 75.9 L212.0 76.6 L228.5 79.2 L245.0 76.3 L261.5 76.9 L278.0 75.1 L294.6 77.4 L311.1 72.4 L327.6 81.1 L344.1 86.3 L360.6 76.7 L377.1 74.2 L393.6 84.7 L410.1 81.9 L426.7 75.3 L443.2 75.7 L459.7 83.6 L476.2 82.7 L492.7 73.3 L509.2 79.6 L525.7 77.4 L542.2 86.4 L558.7 86.7 L575.3 88.0 L591.8 85.0 L608.3 84.8 L624.8 76.7 L641.3 81.1 L657.8 80.7 L674.3 77.0 L690.8 75.9 L707.3 79.2 L723.9 86.7 L740.4 158.1 L740.4 266.0 L96.4 266.0 Z" fill="#e08a2c" fill-opacity="0.18"/>
+<path d="M96.4 175.9 L112.9 66.4 L129.4 63.4 L146.0 59.9 L162.5 75.0 L179.0 81.5 L195.5 75.9 L212.0 76.6 L228.5 79.2 L245.0 76.3 L261.5 76.9 L278.0 75.1 L294.6 77.4 L311.1 72.4 L327.6 81.1 L344.1 86.3 L360.6 76.7 L377.1 74.2 L393.6 84.7 L410.1 81.9 L426.7 75.3 L443.2 75.7 L459.7 83.6 L476.2 82.7 L492.7 73.3 L509.2 79.6 L525.7 77.4 L542.2 86.4 L558.7 86.7 L575.3 88.0 L591.8 85.0 L608.3 84.8 L624.8 76.7 L641.3 81.1 L657.8 80.7 L674.3 77.0 L690.8 75.9 L707.3 79.2 L723.9 86.7 L740.4 158.1" fill="none" stroke="#e08a2c" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="740.4" cy="158.1" r="4.5" fill="#e08a2c"/>
+</svg>
